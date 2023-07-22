@@ -1,4 +1,4 @@
-# @File    : test4.py
+# @File    : test4.p
 # @DESCRIBE:
 
 # from statsmodels.stats.proportion import proportions_ztest as ztest
