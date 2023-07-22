@@ -1,4 +1,4 @@
-# @Author  : arvin.
+# @Author  : arvin
 # @File    : test4.py
 # @DESCRIBE:
 
