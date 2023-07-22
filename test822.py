@@ -1,4 +1,4 @@
-# @A
+# @
 # @File    : test4.py
 # @DESCRIBE:
 
