@@ -38,14 +38,14 @@
 # t=0.24826*(1-0.24826)/((0.02578/1.96)**2)
 # print(t)
 
-from scipy.stats import norm
-import numpy as np
-np.set_printoptions(suppress=True)
-from scipy.stats import t
+# from scipy.stats import norm
+# import numpy as np
+# np.set_printoptions(suppress=True)
+# from scipy.stats import t
 
-import sympy
-import math
-from scipy.integrate import quad
+# import sympy
+# import math
+# from scipy.integrate import quad
 
 # na=122254
 # acta=5148
