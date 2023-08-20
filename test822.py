@@ -1,4 +1,4 @@
-# @DESCRIBE:
+# @DESCRIBE
 
 # from statsmodels.stats.proportion import proportions_ztest as ztest
 # import numpy as np
