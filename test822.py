@@ -1,4 +1,4 @@
-# from statsmodels.stats.proportion import proportions_zt
+# from statsmodels.stats.proportion import proportions_z
 # import numpy as np
 # print(ztest(count=np.array([13736,17210]), nobs=np.array([59840,60063])))
 #
