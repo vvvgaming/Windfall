@@ -1,4 +1,4 @@
-# print(ztest(count=np.array([13736,17210]), no
+# print(ztest(count=np.array([13736,17210]), n
 #
 #
 #
