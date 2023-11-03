@@ -1,4 +1,4 @@
-# print(ztest(count=np.ar
+# print(ztest(count=np.a
 #
 #
 #
