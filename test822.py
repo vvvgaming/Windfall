@@ -1,4 +1,4 @@
-# print(ztest(count=np.array([13
+# print(ztest(count=np.array([1
 #
 #
 #
