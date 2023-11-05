@@ -1,4 +1,4 @@
-# from scipy.stats i
+# from scipy.stats 
 #
 # p1=0
 # p2=0.24826
