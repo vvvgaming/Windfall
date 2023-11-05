@@ -1,4 +1,4 @@
-# from scipy.stats import n
+# from scipy.stats import 
 #
 # p1=0
 # p2=0.24826
