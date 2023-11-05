@@ -1,4 +1,4 @@
-# from scipy.stats import norm
+# from scipy.stats import nor
 #
 # p1=0
 # p2=0.24826
