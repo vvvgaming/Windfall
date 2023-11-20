@@ -1,4 +1,4 @@
-# from sci
+# from sc
 #
 # p1=0
 # p2=0.24826
