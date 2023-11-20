@@ -1,4 +1,4 @@
-# from scipy.s
+# from scipy.
 #
 # p1=0
 # p2=0.24826
