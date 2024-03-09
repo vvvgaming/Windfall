@@ -1,4 +1,4 @@
-# z_critical=norm.ppf(0.975)  #计算临
+# z_critical=norm.ppf(0.975)  #计算
 #
 # print(z_critical)
 #
