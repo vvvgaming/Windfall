@@ -1,4 +1,4 @@
-# z_critical=norm.pp
+# z_critical=norm.p
 #
 # print(z_critical)
 #
