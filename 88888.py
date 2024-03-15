@@ -1,4 +1,4 @@
-# z_critic
+# z_criti
 #
 # print(z_critical)
 #
