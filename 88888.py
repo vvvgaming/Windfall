@@ -1,4 +1,4 @@
-# z_critical=norm.ppf
+# z_critical=norm.pp
 #
 # print(z_critical)
 #
