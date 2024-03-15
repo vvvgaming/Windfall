@@ -1,4 +1,3 @@
-
 # print(z_critical)
 #
 # #margin=z_critical*(p*(1-p)*(1/n1+1/n2))**0.5  #计算边际误差
