@@ -1,4 +1,4 @@
-# #margin=z_
+# #margin=z
 # margin=z_critical*(0.24826*(1-0.24826)*(1/(223)))**0.5  #计算边际误差
 # print(margin)
 #
