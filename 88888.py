@@ -1,4 +1,4 @@
-# margin=z_critical*(0.2
+# margin=z_critical*(0.
 # print(margin)
 #
 # lower=p-margin #置信区间下限
