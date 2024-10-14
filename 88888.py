@@ -1,4 +1,4 @@
-# lower=p-ma
+# lower=p-m
 # upper=p+margin #置信区间上限
 #
 # print(lower)
