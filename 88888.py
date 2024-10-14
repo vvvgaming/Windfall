@@ -1,4 +1,4 @@
-# pr
+# p
 #
 # lower=p-margin #置信区间下限
 # upper=p+margin #置信区间上限
