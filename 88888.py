@@ -1,4 +1,4 @@
-# lower=p-margin #置信区
+# lower=p-margin #置信
 # upper=p+margin #置信区间上限
 #
 # print(lower)
