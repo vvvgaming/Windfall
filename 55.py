@@ -1,4 +1,4 @@
-# ta=(-0.40
+# ta=(-0.4
 # print(ta)
 # ta=(-0.4035+0.1642)/Sadd
 # print(ta)
