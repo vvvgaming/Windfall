@@ -4,7 +4,7 @@
 # print(p2)
 #
 # m=(pb-pa)-1.96*((pa*(1-pa)/na)+(pb*(1-pb)/nb))**0.5
-# print(m
+# print
 
 
 # ta=(-0.4035+0.1642)/Sad
