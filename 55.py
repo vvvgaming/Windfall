@@ -1,12 +1,19 @@
+# Z2=(pb-pa)/((pa*(1-pa)/na)+(pb*(1-pb)/nb))**0.5
+# print(Z2)
+# p2=norm.sf(abs(z_scores))*2 #twosided
+# print(p2)
+#
+# m=(pb-pa)-1.96*((pa*(1-pa)/na)+(pb*(1-pb)/nb))**0.5
+# print(m)
+# m2=(pb-pa)+1.96*((pa*(1-pa)/na)+(pb*(1-pb)/nb))**0.5
+# print(m2)
+
 
 # ta=(-0.4035+0.1642)/Sad
 # print(ta)
 # ta=(-0.4035+0.1642)/Sadd
 # print(ta)
 # ta=(-0.4035+0.1642)/Sadd
-
-
-
 
 
 # lower=
