@@ -3,7 +3,7 @@
 # p2=norm.sf(abs(z_scores))*2 #twosided
 # print(p2)
 #
-# m=(pb-pa)-1.96*((pa*(1-pa)/na)+(pb*(1-pb)/nb
+# m=(pb-pa)-1.96*((pa*(1-pa)/na)+(pb*(1-pb)/n
 
 
 # ta=(-0.4035+0.1642)/Sad
