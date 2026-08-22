@@ -1,6 +1,6 @@
 # Z2=(pb-pa)/((pa*(1-pa)/na)+(pb*(1-pb)/nb))**0.5
 # print(Z2)
-# p2=norm.sf(abs(z_scores))*2 #twosid
+# p2=norm.sf(abs(z_scores))*2 #twosi
 
 # Z2=(pb-pa)/((pa*(1-pa)/na)+(pb*(1-pb)/nb))**0.5
 # print(Z2)
